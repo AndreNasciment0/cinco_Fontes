@@ -1,0 +1,34 @@
+
+
+body {
+    background-color: black;
+    text-align: center;
+}
+
+p {
+    color: greenyellow;
+}
+h1 {
+    color: orange;
+    text-decoration: underline;
+}
+
+h2 {
+     color: fuchsia;
+}
+
+.com-serifa {
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+.sem-serifa {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.artistica {
+    font-family: fantasy;
+}
+.cursiva {
+    font-family: cursive ;
+}
+.mono {
+    font-family: 'Courier New', Courier, monospace;
+}
